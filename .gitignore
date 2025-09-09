@@ -1,0 +1,20 @@
+Python virtual environment
+venv/
+
+Python cache files
+pycache/
+*.pyc
+
+Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+IDE and OS-specific files
+.vscode/
+.idea/
+.DS_Store
+
+Large data files - DO NOT COMMIT DATA
+data/
+
+Large model files and results - DO NOT COMMIT MODELS
+results/
